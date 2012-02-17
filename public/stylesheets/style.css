@@ -1,0 +1,42 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  padding-top:60px;
+}
+
+a {
+  color: #00B7FF;
+}
+.very-code{
+	position:relative;
+	overflow:hidden;
+	height:500px;
+	width:1170px;
+}
+#input { 
+    height:500px;
+    width:500px;
+    position:absolute;
+    left:0;
+}
+#output { 
+    height:500px;
+    width:500px;
+    position:absolute;
+    left:670px;
+}
+#log{
+	height:100px;
+	width:1170px;
+	margin:20px 0 0 -30px;
+}
+#very-parser{
+	position:absolute;
+	left:520px;
+	width:100px;
+	height:480px;
+	line-height:380px;
+}
+.container .ace-twilight .ace_gutter-layer{
+	text-align:left;
+	text-indent:30px;
+}

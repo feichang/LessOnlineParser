@@ -1,0 +1,8 @@
+!!! 5
+html
+	head
+		title Less Online Parser
+		link(href='../bootstrap/css/bootstrap.min.css',rel='stylesheet')
+		link(href='../bootstrap/css/bootstrap-responsive.min.css',rel='stylesheet')
+		link(rel='stylesheet', href='/stylesheets/style.css')
+	body!= body
