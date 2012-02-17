@@ -1,1 +1,6 @@
+<h2>运行</h2>
+<p>git clone git://github.com/feichang/LessOnlineParser.git</p>
+<p>cd LessOnlineParser</p>
+<p>npm install -d</p>
+<p>node app.js</p>
 http://less.cnodejs.net
